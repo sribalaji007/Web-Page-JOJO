@@ -1,0 +1,2556 @@
+
+.atsu-redesign, .atsu-redesign * { 
+    box-sizing: border-box; 
+}
+.atsu-redesign {
+    background: #000a1f;
+    width: 1920px; 
+    height: 8863px; 
+    position: relative; 
+    overflow: hidden;}
+ .section-1 {
+    background: linear-gradient(180deg, rgba(0, 10, 31, 1.00) 0%,rgba(0, 12, 47, 1.00) 100%); 
+    width: 1920px; 
+    height: 1410px; 
+    position: absolute; 
+    left: 0px;top: 0px; 
+    overflow: hidden;
+}
+ .grid {
+    position: absolute; 
+    inset: 0;}
+ .w-stroke {
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    overflow: visible;
+}
+ .h-stroke {
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    overflow: visible;
+}
+ .vector-1 {
+    position: absolute; 
+    left: 2px;
+    top: 670px; 
+    overflow: visible;
+}
+ .partener {
+    width: 1170px; 
+    height: 295px; 
+    position: absolute; 
+    left: calc(50% - 585px);
+    top: 1084px;
+}
+ .sed-ut-perspiciatis-unde-omnis-natus-error-voluptatem-santium-doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-nllo-inventore-veritatis-quasi-architecto-beatae-vitae {
+    color: #a8adb3; 
+    text-align: left; 
+    font: 400 16px/32px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 677px;
+    top: 27px; 
+    width: 463.39px; 
+    height: 84px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .group-162535 {
+    position: absolute; 
+    inset: 0;
+}
+ .partener2 {
+    width: 1002.64px; 
+    height: 80px; 
+    position: static;
+}
+ ._6-300-x-300-1-png {
+    width: 154.64px; 
+    height: 80px; 
+    position: absolute; 
+    left: calc(50% - 290.9px);
+    top: calc(50% - -64.5px);
+}
+ .clients-ksa-25-300-x-300-1-png {
+    width: 153.69px; 
+    height: 80px; 
+    position: absolute; 
+    left: calc(50% - 72.26px);
+    top: calc(50% - -64.5px);
+}
+ ._2-300-x-300-1-png {
+    width: 146.1px; 
+    height: 80px; 
+    position: absolute; 
+    left: calc(50% - -145.44px);
+    top: calc(50% - -64.5px);
+}
+ ._5-300-x-300-1-png {
+    width: 146.1px; 
+    height: 80px; 
+    position: absolute; 
+    left: calc(50% - -355.54px);
+    top: calc(50% - -64.5px);
+}
+ .clients-ksa-20-300-x-300-1-png {
+    width: 146.1px; 
+    height: 80px; 
+    position: absolute; 
+    left: calc(50% - 501px);
+    top: calc(50% - -64.5px);
+}
+ .line-63 {
+    border-style: solid; 
+    border-color: #464548; 
+    border-width: 1px 0 0 0; 
+    width: 1110px; 
+    height: 0px; 
+    position: absolute; 
+    left: 1140px;
+    top: 196px; 
+    transform-origin: 0 0; 
+    transform: rotate(-180deg) scale(1, 1);
+}
+ .button {
+    border-radius: 27.5px; 
+    border-width: 2px; 
+    border-style: solid; 
+    border-image: var(--_7, linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%)); 
+    border-image-slice: 1; 
+    width: 48px; 
+    height: 48px; 
+    position: absolute; 
+    right: 11px;
+    top: 228px;
+}
+ .arrow {
+    width: 42px; 
+    height: 42px; 
+    position: absolute; 
+    left: calc(50% - 19.5px);
+    top: calc(50% - 21.19px); 
+    overflow: hidden;
+}
+ .frame {
+    position: absolute; 
+    left: calc(50% - 21px);
+    top: 0px; 
+    overflow: visible;
+}
+ .button2 {
+    border-radius: 27.5px; 
+    border-width: 2px; 
+    border-style: solid; 
+    border-image: var(--_7, linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%)); 
+    border-image-slice: 1; 
+    width: 48px; 
+    height: 48px; 
+    position: absolute; 
+    right: 1062px;
+    top: 228px; 
+    transform-origin: 0 0; 
+    transform: rotate(0deg) scale(-1, 1);
+}
+ .frame2 {
+    position: absolute; 
+    left: calc(50% - 21px);
+    top: 0px; 
+    overflow: visible;
+}
+ .group-162540 {
+    position: absolute; 
+    inset: 0;
+}
+ .pseudo {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 70px;
+    top: -2px;
+}
+ .brand {
+    text-align: left; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 30px;
+    top: -61px; 
+    width: 555.09px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .we-ve-more-then-254-global-partners {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 70px;
+    top: 22px; 
+    width: 465.53px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .image-background {
+    position: absolute; 
+    inset: 0;
+}
+ .image {
+    position: absolute; 
+    right: 260px; 
+    left: 1382px;
+    bottom: 1010px; 
+    top: 123px;
+}
+ .image2 {
+    width: 278px; 
+    position: absolute; 
+    left: calc(50% - 139px);
+    bottom: 797px; 
+    top: 454px;
+}
+ .image3 {
+    position: absolute; 
+    right: 1404px; 
+    left: 238px;
+    bottom: 1148px; 
+    top: 170px;
+}
+ .image-forground {
+    position: absolute; 
+    inset: 0;
+}
+ .image4 {
+    width: 718px; 
+    height: 686px; 
+    position: absolute; 
+    left: 982px;
+    top: calc(50% - 544px);
+}
+ .image5 {
+    width: 107px; 
+    height: 107px; 
+    position: absolute; 
+    left: 1655px;
+    top: calc(50% - 365px);
+}
+ .heading-1 {
+    width: 720px; 
+    height: 225px; 
+    position: absolute; 
+    left: 405px;
+    top: 281px;
+}
+ .object-4-png {
+    width: 206px; 
+    height: 214px; 
+    position: absolute; 
+    left: 342px;
+    top: calc(50% - 182.5px);
+}
+ .grow-your-business-with-us-best-business-solutions {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 249px; 
+    width: 440.61px; 
+    height: 29px; 
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: flex-start
+}
+ .we-provide-smart-business-solutions {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 75px/75px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: -17px; 
+    width: 500.73px; 
+    height: 258px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .navbar {
+    position: absolute; 
+    inset: 0;
+}
+ .logo-lift-2022-b-png {
+    width: 125px; 
+    height: 49px; 
+    position: absolute; 
+    left: 405px;
+    top: calc(50% - 641px);
+}
+ .nav {
+    width: 663.8px; 
+    height: 30px; 
+    position: static;
+}
+ .home {
+    width: 65.83px; 
+    height: 30px; 
+    position: static;
+}
+ .pseudo2 {
+    background: #ffffff; 
+    width: 52.83px; 
+    height: 1px; 
+    position: absolute; 
+    left: 677px;
+    top: 91px;
+}
+ .home2 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 677px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow2 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 12px/24px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 734.83px;
+    top: 65px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .clients {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 785.83px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow3 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 12px/24px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 849.83px;
+    top: 65px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .services {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 901.83px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow4 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 12px/24px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 980.93px;
+    top: 65px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .projects {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 1034.92px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow5 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 12px/24px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 1109.96px;
+    top: 65px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .about {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 1161.97px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow6 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 12px/24px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 1219.97px;
+    top: 65px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .contact {
+    color: #ffffff; 
+    text-align: center; 
+    font: 500 20px/30px 'Jost', sans-serif;
+    position: absolute; 
+    left: 1273.8px;
+    top: 64px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .vector3 {
+    position: absolute; 
+    left: 1488px;
+    top: 88px; 
+    transform: translate(0px, -22.25px); 
+    overflow: visible;
+}
+ .section-2 {
+    width: 1290.74px; 
+    height: 576px; 
+    position: absolute; 
+    left: 224.05px;
+    top: 1537.5px;
+}
+ .image6 {
+    position: absolute; 
+    inset: 0;
+}
+ .image-1-png {
+    width: 362px; 
+    height: 576px; 
+    position: absolute; 
+    left: 140.95px;
+    top: calc(50% - 288px);
+}
+ .bg-icon-one {
+    width: 120.9px; 
+    height: 471.2px; 
+    position: absolute; 
+    left: -1px;
+    top: 57.4px;
+}
+ .pseudo3 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 558.95px;
+    top: 43.5px;
+}
+ .features {
+    text-align: left; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 518.95px;
+    top: -20.5px; 
+    width: 772.03px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .explore-our-professional-business-solutions {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 558.95px;
+    top: 67.5px; 
+    width: 484.17px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .group-162537 {
+    position: absolute; 
+    inset: 0;
+}
+ .business-growth {
+    width: 290.79px; 
+    height: 89.8px; 
+    position: static;
+}
+ .feature-1-png {
+    width: 60px; 
+    height: 60px; 
+    position: absolute; 
+    left: 601.95px;
+    top: calc(50% - 30.5px);
+}
+ .business-growth2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 686.95px;
+    top: 253.5px; 
+    width: 180.58px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .sed-perspiciatis-unde-omnis-natus-error-voluptatem {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/28px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 686.95px;
+    top: 295.3px; 
+    width: 205.79px; 
+    height: 48px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .user-research {
+    width: 290.79px; 
+    height: 89.8px; 
+    position: static;
+}
+ .feature-2-png {
+    width: 60px; 
+    height: 60px; 
+    position: absolute; 
+    left: 999.95px;
+    top: calc(50% - 30.5px);
+}
+ .user-research2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 1084.95px;
+    top: 253.5px; 
+    width: 155.48px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .sed-perspiciatis-unde-omnis-natus-error-voluptatem2 {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/28px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 1084.95px;
+    top: 295.3px; 
+    width: 205.79px; 
+    height: 48px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .big-data-solution {
+    width: 290.79px; 
+    height: 89.79px; 
+    position: static;
+}
+ .feature-3-png {
+    width: 60px; 
+    height: 60px; 
+    position: absolute; 
+    left: 601.95px;
+    top: calc(50% - -139.3px);
+}
+ .big-data-solution2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 686.95px;
+    top: 423.3px; 
+    width: 188.51px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .sed-perspiciatis-unde-omnis-natus-error-voluptatem3 {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/28px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 686.95px;
+    top: 465.09px; 
+    width: 205.79px; 
+    height: 48px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .product-design {
+    width: 290.79px; 
+    height: 89.79px; 
+    position: static;
+}
+ .feature-4-png {
+    width: 60px; 
+    height: 60px; 
+    position: absolute; 
+    left: 999.95px;
+    top: calc(50% - -139.3px);
+}
+ .product-design2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 1084.95px;
+    top: 423.3px; 
+    width: 166.09px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .sed-perspiciatis-unde-omnis-natus-error-voluptatem4 {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/28px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 1084.95px;
+    top: 465.09px; 
+    width: 205.79px; 
+    height: 48px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .section-3 {
+    width: 1250px; 
+    height: 546px; 
+    position: absolute; 
+    left: 405px;
+    top: 2241px;
+}
+ .about-1-png {
+    width: 540px; 
+    height: 515px; 
+    position: absolute; 
+    right: 22px;
+    top: calc(50% - 242px);
+}
+ .group-162539 {
+    position: absolute; 
+    inset: 0;
+}
+ .sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium-doloremque-laudantium-totam-rem-aperiam-eaque-epsa-quae-ab-illo-inventore-veritatis-architecto-beatae {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 18px/32px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 274px; 
+    width: 533.72px; 
+    height: 87px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .pseudo4 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 40px;
+    top: 59.5px;
+}
+ .who {
+    text-align: left; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    width: 401.14px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .we-re-awards-winning-modern-business-solutions-agency {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 83px; 
+    width: 521.98px; 
+    height: 167px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .group-162538 {
+    position: absolute; 
+    inset: 0;
+}
+ .item {
+    background: #292738; 
+    border-radius: 5px; 
+    padding: 15px 19.69px 15px 55px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 65px;
+    top: 393px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10);
+}
+ .check {
+    background: linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%); 
+    border-radius: 12.5px; 
+    flex-shrink: 0; 
+    width: 25px; 
+    height: 25px; 
+    position: absolute; 
+    left: 20px;
+    top: 13px;
+}
+ /* .{
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 13px/20px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 5.5px;
+    top: 2.5px; 
+    width: 14.2px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+} */
+ .tech-solutions {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 16px/20px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .item2 {
+    background: #292738; 
+    border-radius: 5px; 
+    padding: 15px 19.3px 15px 55px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 257.69px;
+    top: 393px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10);
+}
+ .it-consulting {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 16px/20px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .item3 {
+    background: #292738; 
+    border-radius: 5px; 
+    padding: 15px 19.86px 15px 55px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 440.98px;
+    top: 393px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10);
+}
+ .web-solutions {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 16px/20px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .item4 {
+    background: #292738; 
+    border-radius: 5px; 
+    padding: 15px 19.78px 15px 55px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 65px;
+    top: 453px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10);
+}
+ .business-growth3 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 16px/20px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .item5 {
+    background: #292738; 
+    border-radius: 5px; 
+    padding: 15px 19.92px 15px 55px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 274.78px;
+    top: 453px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10);
+}
+ .product-design3 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 16px/20px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .section-4 {
+    width: 1165.23px; 
+    height: 1051.99px; 
+    position: absolute; 
+    left: 350px;
+    top: 2915px;
+}
+ .pseudo5 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 538.23px;
+    top: 59px;
+}
+ .services2 {
+    text-align: center; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 214.2px;
+    top: 0px; 
+    width: 732.26px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .great-features-to-do-your-buisness-growth-development {
+    color: #ffffff; 
+    text-align: center; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 235.06px;
+    top: 83px; 
+    width: 690.53px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .bg-icon-two-dark-png {
+    width: 536.9px; 
+    height: 535.92px; 
+    position: absolute; 
+    left: 0px;top: calc(50% - 232.99px);
+}
+ .box {
+    background: #292738; 
+    border-radius: 8px; 
+    padding: 25px 30px 23px 30px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 595.23px;
+    bottom: 671.19px; 
+    top: 243px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10); 
+    overflow: hidden;
+}
+ .content {
+    flex-shrink: 0; 
+    width: 410px; 
+    height: 89.8px; 
+    position: relative;
+}
+ .service-icon-1-png {
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;
+    top: calc(50% - 44.9px);
+}
+ .graphics-design {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 95px;
+    top: -4px; 
+    width: 180.37px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .text {
+    padding: 0px 39px 0px 0px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 95px;
+    top: 33.8px;
+}
+ .sed-perspiciatis-unde-omnis-natus-error-voluptatem5 {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/28px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .link {
+    background: #232331; 
+    border-radius: 30px; 
+    width: 60px; 
+    height: 60px; 
+    position: absolute; 
+    right: 0px;
+    top: 15px;
+}
+ .arrow-right {
+    background: rgba(255, 255, 255, 0.00); 
+    width: 14px; 
+    height: 28px; 
+    position: absolute; 
+    left: calc(50% - 7px);
+    top: calc(50% - 14px); 
+    box-shadow: 0px 10px 30px 0px rgba(255, 255, 255, 0.12);
+}
+ .arrow7 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 15px/28px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 6px; 
+    width: 14.2px; 
+    height: 16px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box2 {
+    background: #292738; 
+    border-radius: 8px; 
+    padding: 25px 30px 23px 30px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 645.23px;
+    bottom: 503.39px; 
+    top: 410.7998046875px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10); 
+    overflow: hidden;
+}
+ .service-icon-2-png {
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;top: calc(50% - 44.9px);
+}
+ .ideation-evaluation {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; left: 95px;
+    top: -4px; 
+    width: 231.73px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .text2 {
+    padding: 0px 39px 0px 0px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 95px;
+    top: 33.79px;
+}
+ .box3 {
+    background: #292738; 
+    border-radius: 8px; 
+    padding: 25px 30px 23px 30px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 695.23px;
+    bottom: 335.6px; 
+    top: 578.58984375px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10); 
+    overflow: hidden;
+}
+ .service-icon-3-png {
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;
+    top: calc(50% - 44.9px);
+}
+ .brand-identity {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 95px;
+    top: -4px; 
+    width: 153.09px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box4 {
+    background: #292738; 
+    border-radius: 8px; 
+    padding: 25px 30px 23px 30px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 565.23px;
+    bottom: 167.8px; 
+    top: 746.390625px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10); 
+    overflow: hidden;
+}
+ .service-icon-4-png {
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;
+    top: calc(50% - 44.9px);
+}
+ .custome-service {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 95px;
+    top: -4px; 
+    width: 183.04px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box5 {
+    background: #292738; 
+    border-radius: 8px; 
+    padding: 25px 30px 23px 30px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 375.23px;
+    bottom: 0px; 
+    top: 914.189453125px; 
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.10); 
+    overflow: hidden;
+}
+ .service-icon-5-png {
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;
+    top: calc(50% - 44.9px);
+}
+ .web-strategy {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 95px;
+    top: -4px; 
+    width: 148.22px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .section-5 {
+    width: 1170px; 
+    height: 853px; 
+    position: absolute; 
+    left: calc(50% - 585px);
+    top: 4095px;
+}
+ .pseudo6 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 543px;
+    top: 59px;
+}
+ .projects2 {
+    text-align: center; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 208px;
+    top: 0px; 
+    width: 753.58px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .checkout-our-recently-completed-projects {
+    color: #ffffff; 
+    text-align: center; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 366px;
+    top: 83px; 
+    width: 437.16px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .group-162541 {
+    position: absolute; 
+    inset: 0;
+}
+ .card-3 {
+    width: 370px; 
+    height: 536px; 
+    position: static;
+}
+ .project-1-jpg {
+    height: 536px; 
+    position: absolute; 
+    right: 800px; 
+    left: 0px;
+    top: calc(50% - 179.5px);
+}
+ .titel {
+    background: linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%); 
+    padding: 5px 36.94px 5px 37.06px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 20px;
+    top: 617.41px;
+}
+ .marketing {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .heading {
+    background: #292738; 
+    width: 270px; 
+    height: 105.59px; 
+    position: absolute; 
+    left: 20px;
+    top: 657.41px;
+}
+ .link2 {
+    padding: 3px 0px 2.8px 0px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 40px;
+    top: 20px;}
+ .tech-website-solution {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .card-2 {
+    width: 370px; 
+    height: 536px; 
+    position: static;
+}
+ .project-2-jpg {
+    height: 536px; 
+    position: absolute; 
+    right: 400px; 
+    left: 400px;
+    top: calc(50% - 179.5px);
+}
+ .titel2 {
+    background: linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%); 
+    padding: 5px 36.09px 5px 36.91px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 420px;
+    top: 617.41px;
+}
+ .tecnology {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .heading2 {
+    background: #292738; 
+    width: 270px; 
+    height: 105.59px; 
+    position: absolute; 
+    left: 420px;
+    top: 657.41px;
+}
+ .app-platform-integration {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .card-1 {
+    width: 370px; 
+    height: 536px; 
+    position: static;
+}
+ .project-3-jpg {
+    height: 536px; 
+    position: absolute; 
+    right: 0px; 
+    left: 800px;
+    top: calc(50% - 179.5px);
+}
+ .titel3 {
+    background: var(--_7, linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%)); 
+    padding: 5px 41.42px 5px 41.58px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 820px;
+    top: 617.41px;
+}
+ .software {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .heading3 {
+    background: #292738; 
+    width: 270px; 
+    height: 105.59px; 
+    position: absolute; 
+    left: 820px;
+    top: 657.41px;
+}
+ .software-tools-development {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .shape {
+    position: absolute; 
+    inset: 0;
+}
+ .item-button-navigate-to-slide-1 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 540px;
+    top: 843px;
+}
+ .item-button-navigate-to-slide-2 {
+    background: #6d18ef; 
+    border-radius: 30px; 
+    width: 30px; 
+    height: 10px; 
+    position: absolute; 
+    left: 560px;
+    top: 843px;}
+ .item-button-navigate-to-slide-3 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 600px;
+    top: 843px;
+}
+ .item-button-navigate-to-slide-4 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 620px;
+    top: 843px;
+}
+ .section-6 {
+    width: 1334px; 
+    height: 678px; 
+    position: absolute; 
+    left: 405px;
+    top: 5076px;
+}
+ .quis-autem-vel-eum-iure-reprehenderit-qui-in-ea-voluptates-velit-esse-quam-molestiae-consequatur-velillum {
+    color: #a8adb3; 
+    text-align: left; 
+    font: 400 16px/32px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 240px; 
+    width: 437.5px; 
+    height: 52px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .pseudo7 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 40px;
+    top: 78px;
+}
+ .seo {
+    color: rgba(255, 255, 255, 0.15); 
+    text-align: left; 
+    font: 700 150px/28px 'Jost', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 0px;
+    top: 3px; 
+    width: 307.56px; 
+    height: 217px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .manage-business-seo-optimization-easily {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 102px; 
+    width: 432.81px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box6 {
+    background: #292738; 
+    border-style: solid; 
+    border-color: #2e2d2d; 
+    border-width: 0px 0px 1px 0px; 
+    width: 440px; 
+    height: 61px; 
+    position: absolute; 
+    left: 65px;
+    top: 308px;
+}
+ .why-seo-growth-business-strategy {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 18px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 8px;
+    top: 17px; 
+    width: 308.98px; 
+    height: 26px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .arrow8 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 17px/30px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 408.25px;
+    top: 21px; 
+    width: 15.95px; 
+    height: 18px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box7 {
+    background: #292738; 
+    border-style: solid; 
+    border-color: #6d18ef; 
+    border-width: 0px 0px 1px 0px; 
+    width: 440px; 
+    height: 61px; 
+    position: absolute; 
+    left: 65px;
+    top: 379px;
+}
+ .how-we-help-your-projects {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 18px/30px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 8px;
+    top: 17px; 
+    width: 242.97px; 
+    height: 26px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .arrow9 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 15px/30px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 410.5px;
+    top: 21px; 
+    width: 13.7px; 
+    height: 18px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .content2 {
+    background: #232331; 
+    width: 440px; 
+    height: 106px; 
+    position: absolute; 
+    left: 65px;
+    top: 440px;
+}
+ .text3 {
+    width: 440px; 
+    height: 96px; 
+    position: absolute; 
+    left: 0px;
+    top: 10px;
+}
+ .on-the-other-hand-denounce-with-righteous-indignation-and-dislike-men-who-are-so-beguiled-and-demoralized-by-the-charms-of-pleasure-of-the-moment-blinded {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/32px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 8px;
+    top: 6px; 
+    width: 418.7px; 
+    height: 84px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .box8 {
+    background: #292738; 
+    border-style: solid; 
+    border-color: #2e2d2d; 
+    border-width: 0px 0px 1px 0px; 
+    width: 440px; 
+    height: 61px; 
+    position: absolute; 
+    left: 65px;
+    top: 556px;
+}
+ .pseudo8 {
+    width: 477px; 
+    height: 678px; 
+    position: absolute; 
+    left: 657px;
+    top: 0px;
+}
+ .faq-png {
+    width: 701px; 
+    height: 572px; 
+    position: absolute; 
+    left: 633px;
+    top: calc(50% - 289px);
+}
+ .section-7 {
+    width: 1038px; 
+    height: 662.77px; 
+    position: absolute; 
+    left: 405px;
+    top: 5882px;
+}
+ .group-162543 {
+    position: absolute; 
+    inset: 0;
+}
+ .feature-1 {
+    background: #292738; 
+    border-radius: 10px; 
+    width: 307.17px; 
+    height: 289px; 
+    position: absolute; 
+    left: 72px;
+    top: 370.77px; 
+    box-shadow: inset 0px 0px 10px 0px rgba(6, 6, 6, 0.15); 
+    transform-origin: 0 0; 
+    transform: rotate(0deg) scale(0.996, 1.004);
+}
+ .feature-inner {
+    width: 247.88px; 
+    height: 189px; 
+    position: absolute; 
+    left: 30.11px;
+    top: 39.24px; 
+    transform-origin: 0 0; 
+    transform: rotate(0deg) scale(0.996, 1.004);
+}
+ .feature-icon-1-png {
+    width: 91.75px; 
+    height: 85px; 
+    position: absolute; 
+    left: calc(50% - 45.88px);
+    top: calc(50% - 94.5px);
+}
+ ._150 {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 77.59px;
+    top: 105.41px; 
+    width: 66.5px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .project-completed {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 500 20px/24px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 38.84px;
+    top: 161px; 
+    width: 170.39px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .plus2 {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Saira', sans-serif; 
+    position: absolute; 
+    left: 144.09px;
+    top: 95px; 
+    width: 19.25px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .feature-2 {
+    background: #292738; 
+    border-radius: 10px; 
+    width: 307.17px; 
+    height: 289px; 
+    position: absolute; 
+    left: 402px;
+    top: 370.77px; 
+    box-shadow: inset 0px 0px 10px 0px rgba(6, 6, 6, 0.15); 
+    transform-origin: 0 0; 
+    transform: rotate(0deg) scale(0.996, 1.004);
+}
+ .feature-icon-2-png {
+    width: 91.75px; 
+    height: 85px; 
+    position: absolute; 
+    left: calc(50% - 45.88px);
+    top: calc(50% - 94.5px);
+}
+ ._250 {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 77.59px;
+    top: 105.41px; 
+    width: 70.53px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .satisfied-clients {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 500 20px/24px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 48.5px;
+    top: 161px; 
+    width: 151.07px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .plus{
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Saira', sans-serif; 
+    position: absolute; 
+    left: 147.92px;
+    top: 95px; 
+    width: 19.24px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .feature-3 {
+    background: #292738; 
+    border-radius: 10px; 
+    width: 307.17px; 
+    height: 289px; 
+    position: absolute; 
+    left: 732px;
+    top: 370.77px; 
+    box-shadow: inset 0px 0px 10px 0px rgba(6, 6, 6, 0.15); 
+    transform-origin: 0 0; 
+    transform: rotate(0deg) scale(0.996, 1.004);
+}
+ .feature-icon-3-png {
+    width: 91.75px; 
+    height: 85px; 
+    position: absolute; 
+    left: calc(50% - 45.88px);
+    top: calc(50% - 94.5px);
+}
+ ._50 {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 77.59px;
+    top: 105.41px; 
+    width: 59.45px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .expert-teams {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 500 20px/24px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 60.51px;
+    top: 161px; 
+    width: 127.06px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .plus4 {
+    color: #e4e4e4; 
+    text-align: center; 
+    font: 700 35px/55px 'Saira', sans-serif; 
+    position: absolute; 
+    left: 137.13px;
+    top: 95px; 
+    width: 19.25px; 
+    height: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-ways-voluptatem-accusantium-doloremque-laudantium-totam-rem-aperiam-eaque-epsa-quae-abillo-inventore {
+    color: #a8adb3; 
+    text-align: left; 
+    font: 400 16px/32px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 237px; 
+    width: 448.97px; 
+    height: 84px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .pseudo9 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 40px;
+    top: 75px;
+}
+ .fact {
+    color: rgba(255, 255, 255, 0.15); 
+    text-align: left; 
+    font: 700 150px/28px 'Jost', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    width: 363.22px; 
+    height: 217px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .let-s-see-our-company-achievement {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 40px;
+    top: 99px; 
+    width: 455.48px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .video {
+    background: rgba(255, 255, 255, 0.00); 
+    border-radius: 35px; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 0px; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    position: absolute; 
+    left: 873px;
+    top: 127px; 
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.10);
+}
+ .pseudo10 {
+    background: rgba(255, 255, 255, 0.00); 
+    border-radius: 35px; 
+    flex-shrink: 0; 
+    width: 70px; 
+    height: 70px; 
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    box-shadow: 0px 0px 0px 96.94px rgba(255, 255, 255, 0.02); 
+    overflow: hidden;
+}
+ .icon {
+    background: #ffffff; 
+    border-radius: 35px; 
+    flex-shrink: 0; 
+    width: 70px; 
+    height: 70px; 
+    position: relative; 
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.30);
+}
+ .icon2 {
+    position: absolute; 
+    left: 30.5px;
+    top: 42px; 
+    transform: translate(0px, -14px); 
+    overflow: visible;
+}
+ .section-8 {
+    width: 1696px; 
+    height: 975.73px; 
+    position: absolute; 
+    left: 106px;
+    top: 6673px;
+}
+ .bg-pattern-8 {
+    position: absolute; 
+    right: 0px; 
+    left: 1216px;
+    bottom: 0px; 
+    top: 0px;
+}
+ .bg-pattern-82 {
+    position: absolute; 
+    right: 1332px; 
+    left: 0px;
+    bottom: 0px; 
+    top: 0px;
+}
+ .pseudo11 {
+    width: 84px; 
+    height: 10px; 
+    position: absolute; 
+    left: 812px;
+    top: 90.38px;}
+ .say-s {
+    text-align: center; 
+    font: 900 150px/28px 'Kumbh Sans', sans-serif; 
+    text-transform: uppercase; 
+    position: absolute; 
+    left: 634.52px;
+    top: 31.38px; 
+    width: 439.15px; 
+    height: 186px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .people-s-say-about-our-support-services {
+    color: #ffffff; 
+    text-align: center; 
+    font: 600 42px/53px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 623.56px;
+    top: 114.38px; 
+    width: 461.08px; 
+    height: 114px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .box-2 {
+    background: #292738; 
+    width: 555px; 
+    height: 406.8px; 
+    position: absolute; 
+    left: 284px;
+    top: 284.38px; 
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.10);
+}
+ .span-icon {
+    width: 66px; 
+    height: 50px; 
+    position: absolute; 
+    left: 70px;
+    top: 50px;
+}
+ .text4 {
+    border-style: solid; 
+    border-color: #464548; 
+    border-width: 0px 0px 1px 0px; 
+    width: 425px; 
+    height: 136px; 
+    position: absolute; 
+    left: 70px;
+    top: 120px;
+}
+ .sed-ut-perspiciatis-unde-natus-error-sitwa-voluptatem-accusantium-laudant-totames-aperiam-eaque-abillo-beatae-vitae {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 22px/35px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 3px; 
+    width: 423.67px; 
+    height: 98px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .info-box {
+    width: 425px; 
+    height: 55.8px; 
+    position: absolute; 
+    left: 70px;
+    top: 296px;
+}
+ .ceo-founder {
+    color: #67687a; 
+    text-align: left; 
+    font: 400 16px/20px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 35.8px; 
+    width: 117.47px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .icon-chat {
+    width: 101px; 
+    height: 60px; 
+    position: absolute; 
+    right: 0px;
+    top: 0px; 
+    overflow: hidden;
+}
+ .richard-s-brooks {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: -4px; 
+    width: 194.48px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .box-1 {
+    background: #292738; 
+    width: 555px; 
+    height: 406.8px; 
+    position: absolute; 
+    left: 869px;
+    top: 284.38px; 
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.10);
+}
+ .gars-g-bernhardt {
+    color: #ffffff; 
+    text-align: left; 
+    font: 600 24px/28.8px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: -4px; 
+    width: 200.28px; 
+    height: 35px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .item-button-navigate-to-slide-12 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 803px;
+    top: 754px;
+}
+ .item-button-navigate-to-slide-22 {
+    background: #6d18ef; 
+    border-radius: 30px; 
+    width: 30px; 
+    height: 10px; 
+    position: absolute; 
+    left: 823px;
+    top: 754px;
+}
+ .item-button-navigate-to-slide-32 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 863px;
+    top: 754px;
+}
+ .item-button-navigate-to-slide-42 {
+    background: #d1cfdb; 
+    border-radius: 5px; 
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 883px;
+    top: 754px;
+}
+ /* .section-9 {
+    width: 1194.06px; 
+    height: 563px; 
+    position: absolute; 
+    left: 321px;
+    top: 7649px;}
+ .home-5-12-7-png {
+    opacity: 0.7129819989204407; 
+    width: 540.67px; 
+    height: 453.56px; 
+    position: absolute; 
+    left: calc(50% - 597.03px);
+    top: calc(50% - 172.5px);
+}
+ .input-filde {
+    position: absolute; 
+    inset: 0;
+}
+ .input {
+    background: #fafafa; 
+    border-radius: 4px; 
+    border-style: solid; 
+    border-color: #d0dcec; 
+    border-width: 1px; 
+    height: 120px; 
+    position: absolute; 
+    right: 0px; 
+    left: 709px;
+    top: 373px;
+}
+ .your-massage {
+    color: #a8adb3; 
+    text-align: left; 
+    font: 400 16px 'Nunito', sans-serif; 
+    position: absolute; 
+    left: 16px;
+    top: 16px; 
+    width: 112px; 
+    height: 22px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .input2 {background: #fafafa; border-radius: 4px; width: 485.06px; height: 54px; position: absolute; left: calc(50% - -111.97px);top: 241px; overflow: hidden;}
+ .your-name {color: #a8adb3; text-align: left; font: 400 16px 'Nunito', sans-serif; position: absolute; left: 16px;top: calc(50% - 11px); width: 85.72px; height: 22px; display: flex;align-items: center;justify-content: flex-start}
+ .input3 {background: #fafafa; border-radius: 4px; width: 485.06px; height: 54px; position: absolute; left: calc(50% - -111.97px);top: 307px; overflow: hidden;}
+ .your-email {color: #a8adb3; text-align: left; font: 400 16px 'Nunito', sans-serif; position: absolute; left: 15.64px;top: calc(50% - 11px); width: 82.98px; height: 22px; display: flex;align-items: center;justify-content: flex-start}
+ .frame-162531 {background: var(--_7, linear-gradient(270deg, rgba(24, 110, 242, 1.00) 0%,rgba(109, 24, 239, 1.00) 100%)); border-radius: 4px; width: 178px; height: 54px; position: absolute; left: 709px;top: 509px; overflow: hidden;}
+ .send-message {color: #ffffff; text-align: center; font: 600 17px/55px 'Nunito', sans-serif; position: absolute; left: calc(50% - 56px);top: 0px; width: 113px; height: 54px; display: flex;align-items: center;justify-content: center}
+ .group-162544 {position: absolute; inset: 0;}
+ .pseudo12 {width: 84px; height: 10px; position: absolute; left: 694px;top: 75.38px;}
+ .call {color: rgba(255, 255, 255, 0.15); text-align: left; font: 700 150px/28px 'Jost', sans-serif; text-transform: uppercase; position: absolute; left: 654px;top: 0px; width: 399px; height: 217px; display: flex;align-items: center;justify-content: flex-start}
+ .ready-to-work-together-in-news-projects {color: #ffffff; text-align: left; font: 
+    600 42px/53px 'Jost', sans-serif; position: absolute; left: 694px;top: 99px;
+     width: 470.56px; height: 114px; display: flex;align-items: center;justify-content: flex-start} */
+ .footer {
+    width: 1920px; 
+    height: 483.39px; 
+    position: absolute; 
+    left: 0px;
+    top: 8380px;
+}
+ .frame3 {
+    position: absolute; 
+    right: 0px; 
+    left: 0px;
+    bottom: 0px; 
+    top: 0px;
+}
+ .logo-lift-2022-b-png2 {
+    width: 125px; 
+    height: 49px; 
+    position: absolute; 
+    left: 375px;
+    top: calc(50% - 167.05px);
+}
+ .follow {
+    color: #ffffff; 
+    text-align: left; 
+    font: 500 22px/26.4px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 375px;
+    top: 183px; 
+    width: 63.26px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .icon3 {
+    border-radius: 20px; 
+    border-style: solid; 
+    border-color: #ffffff; 
+    border-width: 1px; 
+    width: 40px; 
+    height: 40px; 
+    position: absolute; 
+    left: 375px;
+    top: 237.39px;
+}
+ .facebook {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 14px/38px 'Font Awesome 5 Brands', sans-serif; 
+    position: absolute; 
+    left: 15.63px;
+    top: 13px; 
+    width: 8.95px; 
+    height: 14px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .icon4 {
+    border-radius: 20px; 
+    border-style: solid; 
+    border-color: #ffffff; 
+    border-width: 1px; 
+    width: 40px; 
+    height: 40px; 
+    position: absolute; 
+    left: 425px;
+    top: 237.39px;
+}
+ .twitter {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 14px/38px 'Font Awesome 5 Brands', sans-serif; 
+    position: absolute; 
+    left: 13px;
+    top: 13px; 
+    width: 14.2px; 
+    height: 14px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .icon5 {
+    border-radius: 20px; 
+    border-style: solid; 
+    border-color: #ffffff; 
+    border-width: 1px; 
+    width: 40px; 
+    height: 40px; 
+    position: absolute; 
+    left: 475px;
+    top: 237.39px;
+}
+ .linkedin {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 14px/38px 'Font Awesome 5 Brands', sans-serif; 
+    position: absolute; 
+    left: 13.88px;
+    top: 13px; 
+    width: 12.45px; 
+    height: 14px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .icon6 {
+    border-radius: 20px; 
+    border-style: solid; 
+    border-color: #ffffff; 
+    border-width: 1px; 
+    width: 40px; 
+    height: 40px; 
+    position: absolute; 
+    left: 525px;
+    top: 237.39px;
+}
+ .instgram {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 14px/38px 'Font Awesome 5 Brands', sans-serif; 
+    position: absolute; 
+    left: 13.88px;
+    top: 13px; 
+    width: 12.45px; 
+    height: 14px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .services3 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 500 22px/26.4px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 72px; 
+    width: 83.45px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .product-design4 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 129.39px; 
+    width: 115.06px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .business-consulting {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 169.39px; 
+    width: 146.75px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .custome-service2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 209.39px; 
+    width: 126.64px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .brand-identity2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 249.39px; 
+    width: 105.84px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .seo-optimization {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 673.5px;
+    top: 289.39px; 
+    width: 133.11px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .contact2 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 500 22px/26.4px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 932px;
+    top: 72px; 
+    width: 74.98px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+ .item6 {
+    width: 314.5px; 
+    height: 52px; 
+    position: absolute; 
+    left: 932px;
+    top: 126.39px;
+}
+ ._785-main-street-2nd-block-melbourne-australia {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 3px; 
+    width: 196.95px; 
+    height: 46px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .support-gmail-com {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 932px;
+    top: 195.39px; 
+    width: 149.83px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ ._000-123-456-88 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px/26px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 932px;
+    top: 235.39px; 
+    width: 127.89px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .newsletter {
+    color: #ffffff; 
+    text-align: left; 
+    font: 500 22px/26.4px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 1240.5px;
+    top: 72px; 
+    width: 105.26px; 
+    height: 32px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .heading4 {
+    width: 304.5px; 
+    height: 70px; 
+    position: absolute; 
+    left: 1240.5px;
+    top: 126.39px;
+}
+ .get-every-single-update-to-join-our-newsletter {
+    color: #ffffff; 
+    text-align: left; 
+    font: 500 24px/35px 'Jost', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    width: 287.78px; 
+    height: 70px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .button3 {
+    width: 79.77px; 
+    height: 31px; 
+    position: absolute; 
+    left: calc(50% - -505.23px);
+    top: 235.39px;
+}
+ .sing-up {
+    color: #ffffff; 
+    text-align: center; 
+    font: 600 16px/30px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 2px;
+    top: 0px; 
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+ .arrow10 {
+    color: #ffffff; 
+    text-align: center; 
+    font: 400 14px/30px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 67.52px;
+    top: 3px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .form {
+    width: 304.5px; 
+    height: 60px; 
+    position: absolute; 
+    left: 1240.5px;
+    top: 221.39px;
+}
+ .input4 {
+    border-style: solid; 
+    border-color: #ffffff; 
+    border-width: 0px 0px 1px 0px; 
+    height: 60px; 
+    position: absolute; 
+    right: 0px; 
+    left: 0px;
+    top: 0px;}
+ .placeholder {
+    width: 154.5px; 
+    height: 20px; 
+    position: absolute; 
+    left: 30px;
+    top: 19.5px; 
+    overflow: hidden;
+}
+ .email-address {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 16px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 0px; 
+    width: 105.29px; 
+    height: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .icon7 {
+    color: #ffffff; 
+    text-align: left; 
+    font: 400 18px/30px 'Font Awesome 5 Free', sans-serif; 
+    position: absolute; 
+    left: 0px;
+    top: 21px; 
+    width: 18.2px; 
+    height: 18px; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+ .copy-2023-atsu-all-rights-reserved {
+    color: rgba(255, 255, 255, 0.70); 
+    text-align: center; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 375px;
+    top: 423.39px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .setting-privacy {
+    color: rgba(255, 255, 255, 0.70); 
+    text-align: center; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 1272.97px;
+    top: 423.39px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .faqs {
+    color: rgba(255, 255, 255, 0.70); 
+    text-align: center; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 1426.06px;
+    top: 423.39px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .contact3 {
+    color: rgba(255, 255, 255, 0.70); 
+    text-align: center; 
+    font: 400 16px/30px 'Kumbh Sans', sans-serif; 
+    position: absolute; 
+    left: 1484.33px;
+    top: 423.39px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cli-h1{
+    font: 10em sans-serif;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+.pro-h1{
+    font: 10em sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.ser-h1{
+    font: 10em sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.abo-h1{
+    font: 10em sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.con-h1{
+    font: 10em sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+}
